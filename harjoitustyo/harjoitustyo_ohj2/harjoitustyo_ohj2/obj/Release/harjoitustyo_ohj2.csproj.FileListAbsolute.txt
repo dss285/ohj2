@@ -1,0 +1,17 @@
+C:\Users\tommi\Downloads\harjoitustyo_ohj2\harjoitustyo_ohj2\harjoitustyo_ohj2\bin\Release\harjoitustyo_ohj2.exe.config
+C:\Users\tommi\Downloads\harjoitustyo_ohj2\harjoitustyo_ohj2\harjoitustyo_ohj2\bin\Release\harjoitustyo_ohj2.exe
+C:\Users\tommi\Downloads\harjoitustyo_ohj2\harjoitustyo_ohj2\harjoitustyo_ohj2\bin\Release\harjoitustyo_ohj2.pdb
+C:\Users\tommi\Downloads\harjoitustyo_ohj2\harjoitustyo_ohj2\harjoitustyo_ohj2\bin\Release\Newtonsoft.Json.dll
+C:\Users\tommi\Downloads\harjoitustyo_ohj2\harjoitustyo_ohj2\harjoitustyo_ohj2\bin\Release\Newtonsoft.Json.xml
+C:\Users\tommi\Downloads\harjoitustyo_ohj2\harjoitustyo_ohj2\harjoitustyo_ohj2\obj\Release\harjoitustyo_ohj2.csprojAssemblyReference.cache
+C:\Users\tommi\Downloads\harjoitustyo_ohj2\harjoitustyo_ohj2\harjoitustyo_ohj2\obj\Release\harjoitustyo_ohj2.LisaaHenkilo.resources
+C:\Users\tommi\Downloads\harjoitustyo_ohj2\harjoitustyo_ohj2\harjoitustyo_ohj2\obj\Release\harjoitustyo_ohj2.LisaaToimisuhde.resources
+C:\Users\tommi\Downloads\harjoitustyo_ohj2\harjoitustyo_ohj2\harjoitustyo_ohj2\obj\Release\harjoitustyo_ohj2.Loki.resources
+C:\Users\tommi\Downloads\harjoitustyo_ohj2\harjoitustyo_ohj2\harjoitustyo_ohj2\obj\Release\harjoitustyo_ohj2.MuokkaaHenkilo.resources
+C:\Users\tommi\Downloads\harjoitustyo_ohj2\harjoitustyo_ohj2\harjoitustyo_ohj2\obj\Release\harjoitustyo_ohj2.MuokkaaToimisuhde.resources
+C:\Users\tommi\Downloads\harjoitustyo_ohj2\harjoitustyo_ohj2\harjoitustyo_ohj2\obj\Release\harjoitustyo_ohj2.Paaikkuna.resources
+C:\Users\tommi\Downloads\harjoitustyo_ohj2\harjoitustyo_ohj2\harjoitustyo_ohj2\obj\Release\harjoitustyo_ohj2.Properties.Resources.resources
+C:\Users\tommi\Downloads\harjoitustyo_ohj2\harjoitustyo_ohj2\harjoitustyo_ohj2\obj\Release\harjoitustyo_ohj2.csproj.GenerateResource.cache
+C:\Users\tommi\Downloads\harjoitustyo_ohj2\harjoitustyo_ohj2\harjoitustyo_ohj2\obj\Release\harjoitustyo_ohj2.csproj.CopyComplete
+C:\Users\tommi\Downloads\harjoitustyo_ohj2\harjoitustyo_ohj2\harjoitustyo_ohj2\obj\Release\harjoitustyo_ohj2.exe
+C:\Users\tommi\Downloads\harjoitustyo_ohj2\harjoitustyo_ohj2\harjoitustyo_ohj2\obj\Release\harjoitustyo_ohj2.pdb

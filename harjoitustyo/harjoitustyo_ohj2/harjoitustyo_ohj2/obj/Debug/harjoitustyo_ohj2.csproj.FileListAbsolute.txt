@@ -1,0 +1,34 @@
+C:\Users\Tommi\Downloads\harjoitustyo_ohj2 (2)\harjoitustyo_ohj2\harjoitustyo_ohj2\harjoitustyo_ohj2\bin\Debug\harjoitustyo_ohj2.exe.config
+C:\Users\Tommi\Downloads\harjoitustyo_ohj2 (2)\harjoitustyo_ohj2\harjoitustyo_ohj2\harjoitustyo_ohj2\bin\Debug\harjoitustyo_ohj2.exe
+C:\Users\Tommi\Downloads\harjoitustyo_ohj2 (2)\harjoitustyo_ohj2\harjoitustyo_ohj2\harjoitustyo_ohj2\bin\Debug\harjoitustyo_ohj2.pdb
+C:\Users\Tommi\Downloads\harjoitustyo_ohj2 (2)\harjoitustyo_ohj2\harjoitustyo_ohj2\harjoitustyo_ohj2\obj\Debug\harjoitustyo_ohj2.csprojAssemblyReference.cache
+C:\Users\Tommi\Downloads\harjoitustyo_ohj2 (2)\harjoitustyo_ohj2\harjoitustyo_ohj2\harjoitustyo_ohj2\obj\Debug\harjoitustyo_ohj2.LisaaHenkilo.resources
+C:\Users\Tommi\Downloads\harjoitustyo_ohj2 (2)\harjoitustyo_ohj2\harjoitustyo_ohj2\harjoitustyo_ohj2\obj\Debug\harjoitustyo_ohj2.Loki.resources
+C:\Users\Tommi\Downloads\harjoitustyo_ohj2 (2)\harjoitustyo_ohj2\harjoitustyo_ohj2\harjoitustyo_ohj2\obj\Debug\harjoitustyo_ohj2.MuokkaaHenkilo.resources
+C:\Users\Tommi\Downloads\harjoitustyo_ohj2 (2)\harjoitustyo_ohj2\harjoitustyo_ohj2\harjoitustyo_ohj2\obj\Debug\harjoitustyo_ohj2.Paaikkuna.resources
+C:\Users\Tommi\Downloads\harjoitustyo_ohj2 (2)\harjoitustyo_ohj2\harjoitustyo_ohj2\harjoitustyo_ohj2\obj\Debug\harjoitustyo_ohj2.Properties.Resources.resources
+C:\Users\Tommi\Downloads\harjoitustyo_ohj2 (2)\harjoitustyo_ohj2\harjoitustyo_ohj2\harjoitustyo_ohj2\obj\Debug\harjoitustyo_ohj2.csproj.GenerateResource.cache
+C:\Users\Tommi\Downloads\harjoitustyo_ohj2 (2)\harjoitustyo_ohj2\harjoitustyo_ohj2\harjoitustyo_ohj2\obj\Debug\harjoitustyo_ohj2.exe
+C:\Users\Tommi\Downloads\harjoitustyo_ohj2 (2)\harjoitustyo_ohj2\harjoitustyo_ohj2\harjoitustyo_ohj2\obj\Debug\harjoitustyo_ohj2.pdb
+C:\Users\Tommi\Downloads\harjoitustyo_ohj2 (2)\harjoitustyo_ohj2\harjoitustyo_ohj2\harjoitustyo_ohj2\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Tommi\Downloads\harjoitustyo_ohj2 (2)\harjoitustyo_ohj2\harjoitustyo_ohj2\harjoitustyo_ohj2\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Tommi\Downloads\harjoitustyo_ohj2 (2)\harjoitustyo_ohj2\harjoitustyo_ohj2\harjoitustyo_ohj2\obj\Debug\harjoitustyo_ohj2.csproj.CopyComplete
+C:\Users\Tommi\Downloads\harjoitustyo_ohj2 (2)\harjoitustyo_ohj2\harjoitustyo_ohj2\harjoitustyo_ohj2\obj\Debug\harjoitustyo_ohj2.LisaaToimisuhde.resources
+C:\Users\Tommi\Downloads\harjoitustyo_ohj2 (2)\harjoitustyo_ohj2\harjoitustyo_ohj2\harjoitustyo_ohj2\obj\Debug\harjoitustyo_ohj2.MuokkaaToimisuhde.resources
+C:\Users\tommi\Downloads\harjoitustyo_ohj2\harjoitustyo_ohj2\harjoitustyo_ohj2\bin\Debug\harjoitustyo_ohj2.exe.config
+C:\Users\tommi\Downloads\harjoitustyo_ohj2\harjoitustyo_ohj2\harjoitustyo_ohj2\bin\Debug\harjoitustyo_ohj2.exe
+C:\Users\tommi\Downloads\harjoitustyo_ohj2\harjoitustyo_ohj2\harjoitustyo_ohj2\bin\Debug\harjoitustyo_ohj2.pdb
+C:\Users\tommi\Downloads\harjoitustyo_ohj2\harjoitustyo_ohj2\harjoitustyo_ohj2\bin\Debug\Newtonsoft.Json.dll
+C:\Users\tommi\Downloads\harjoitustyo_ohj2\harjoitustyo_ohj2\harjoitustyo_ohj2\bin\Debug\Newtonsoft.Json.xml
+C:\Users\tommi\Downloads\harjoitustyo_ohj2\harjoitustyo_ohj2\harjoitustyo_ohj2\obj\Debug\harjoitustyo_ohj2.csprojAssemblyReference.cache
+C:\Users\tommi\Downloads\harjoitustyo_ohj2\harjoitustyo_ohj2\harjoitustyo_ohj2\obj\Debug\harjoitustyo_ohj2.LisaaHenkilo.resources
+C:\Users\tommi\Downloads\harjoitustyo_ohj2\harjoitustyo_ohj2\harjoitustyo_ohj2\obj\Debug\harjoitustyo_ohj2.LisaaToimisuhde.resources
+C:\Users\tommi\Downloads\harjoitustyo_ohj2\harjoitustyo_ohj2\harjoitustyo_ohj2\obj\Debug\harjoitustyo_ohj2.Loki.resources
+C:\Users\tommi\Downloads\harjoitustyo_ohj2\harjoitustyo_ohj2\harjoitustyo_ohj2\obj\Debug\harjoitustyo_ohj2.MuokkaaHenkilo.resources
+C:\Users\tommi\Downloads\harjoitustyo_ohj2\harjoitustyo_ohj2\harjoitustyo_ohj2\obj\Debug\harjoitustyo_ohj2.MuokkaaToimisuhde.resources
+C:\Users\tommi\Downloads\harjoitustyo_ohj2\harjoitustyo_ohj2\harjoitustyo_ohj2\obj\Debug\harjoitustyo_ohj2.Paaikkuna.resources
+C:\Users\tommi\Downloads\harjoitustyo_ohj2\harjoitustyo_ohj2\harjoitustyo_ohj2\obj\Debug\harjoitustyo_ohj2.Properties.Resources.resources
+C:\Users\tommi\Downloads\harjoitustyo_ohj2\harjoitustyo_ohj2\harjoitustyo_ohj2\obj\Debug\harjoitustyo_ohj2.csproj.GenerateResource.cache
+C:\Users\tommi\Downloads\harjoitustyo_ohj2\harjoitustyo_ohj2\harjoitustyo_ohj2\obj\Debug\harjoitustyo_ohj2.csproj.CopyComplete
+C:\Users\tommi\Downloads\harjoitustyo_ohj2\harjoitustyo_ohj2\harjoitustyo_ohj2\obj\Debug\harjoitustyo_ohj2.exe
+C:\Users\tommi\Downloads\harjoitustyo_ohj2\harjoitustyo_ohj2\harjoitustyo_ohj2\obj\Debug\harjoitustyo_ohj2.pdb
