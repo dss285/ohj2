@@ -1,0 +1,13 @@
+C:\Users\Tommi\source\repos\viikko2ohj2\viikko2ohj2\bin\Debug\viikko2ohj2.exe.config
+C:\Users\Tommi\source\repos\viikko2ohj2\viikko2ohj2\bin\Debug\viikko2ohj2.exe
+C:\Users\Tommi\source\repos\viikko2ohj2\viikko2ohj2\bin\Debug\viikko2ohj2.pdb
+C:\Users\Tommi\source\repos\viikko2ohj2\viikko2ohj2\obj\Debug\viikko2ohj2.csprojAssemblyReference.cache
+C:\Users\Tommi\source\repos\viikko2ohj2\viikko2ohj2\obj\Debug\viikko2ohj2.Properties.Resources.resources
+C:\Users\Tommi\source\repos\viikko2ohj2\viikko2ohj2\obj\Debug\viikko2ohj2.csproj.GenerateResource.cache
+C:\Users\Tommi\source\repos\viikko2ohj2\viikko2ohj2\obj\Debug\viikko2ohj2.csproj.CoreCompileInputs.cache
+C:\Users\Tommi\source\repos\viikko2ohj2\viikko2ohj2\obj\Debug\viikko2ohj2.exe
+C:\Users\Tommi\source\repos\viikko2ohj2\viikko2ohj2\obj\Debug\viikko2ohj2.pdb
+C:\Users\Tommi\source\repos\viikko2ohj2\viikko2ohj2\obj\Debug\viikko2ohj2.kt1.resources
+C:\Users\Tommi\source\repos\viikko2ohj2\viikko2ohj2\obj\Debug\viikko2ohj2.kt2.resources
+C:\Users\Tommi\source\repos\viikko2ohj2\viikko2ohj2\obj\Debug\viikko2ohj2.kt3.resources
+C:\Users\Tommi\source\repos\viikko2ohj2\viikko2ohj2\obj\Debug\viikko2ohj2.kt4.resources

@@ -1,0 +1,11 @@
+C:\Users\Tommi\source\repos\viikko1ohj2\viikko1ohj2\bin\Debug\netcoreapp2.1\viikko1ohj2.deps.json
+C:\Users\Tommi\source\repos\viikko1ohj2\viikko1ohj2\bin\Debug\netcoreapp2.1\viikko1ohj2.runtimeconfig.json
+C:\Users\Tommi\source\repos\viikko1ohj2\viikko1ohj2\bin\Debug\netcoreapp2.1\viikko1ohj2.runtimeconfig.dev.json
+C:\Users\Tommi\source\repos\viikko1ohj2\viikko1ohj2\bin\Debug\netcoreapp2.1\viikko1ohj2.dll
+C:\Users\Tommi\source\repos\viikko1ohj2\viikko1ohj2\bin\Debug\netcoreapp2.1\viikko1ohj2.pdb
+C:\Users\Tommi\source\repos\viikko1ohj2\viikko1ohj2\obj\Debug\netcoreapp2.1\viikko1ohj2.csprojAssemblyReference.cache
+C:\Users\Tommi\source\repos\viikko1ohj2\viikko1ohj2\obj\Debug\netcoreapp2.1\viikko1ohj2.csproj.CoreCompileInputs.cache
+C:\Users\Tommi\source\repos\viikko1ohj2\viikko1ohj2\obj\Debug\netcoreapp2.1\viikko1ohj2.AssemblyInfoInputs.cache
+C:\Users\Tommi\source\repos\viikko1ohj2\viikko1ohj2\obj\Debug\netcoreapp2.1\viikko1ohj2.AssemblyInfo.cs
+C:\Users\Tommi\source\repos\viikko1ohj2\viikko1ohj2\obj\Debug\netcoreapp2.1\viikko1ohj2.dll
+C:\Users\Tommi\source\repos\viikko1ohj2\viikko1ohj2\obj\Debug\netcoreapp2.1\viikko1ohj2.pdb

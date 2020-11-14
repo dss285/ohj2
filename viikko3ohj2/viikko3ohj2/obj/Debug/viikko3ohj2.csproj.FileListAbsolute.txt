@@ -1,0 +1,10 @@
+C:\Users\Tommi\source\repos\viikko3ohj2\viikko3ohj2\bin\Debug\viikko3ohj2.exe.config
+C:\Users\Tommi\source\repos\viikko3ohj2\viikko3ohj2\bin\Debug\viikko3ohj2.exe
+C:\Users\Tommi\source\repos\viikko3ohj2\viikko3ohj2\bin\Debug\viikko3ohj2.pdb
+C:\Users\Tommi\source\repos\viikko3ohj2\viikko3ohj2\obj\Debug\viikko3ohj2.csprojAssemblyReference.cache
+C:\Users\Tommi\source\repos\viikko3ohj2\viikko3ohj2\obj\Debug\viikko3ohj2.Properties.Resources.resources
+C:\Users\Tommi\source\repos\viikko3ohj2\viikko3ohj2\obj\Debug\viikko3ohj2.csproj.GenerateResource.cache
+C:\Users\Tommi\source\repos\viikko3ohj2\viikko3ohj2\obj\Debug\viikko3ohj2.csproj.CoreCompileInputs.cache
+C:\Users\Tommi\source\repos\viikko3ohj2\viikko3ohj2\obj\Debug\viikko3ohj2.exe
+C:\Users\Tommi\source\repos\viikko3ohj2\viikko3ohj2\obj\Debug\viikko3ohj2.pdb
+C:\Users\Tommi\source\repos\viikko3ohj2\viikko3ohj2\obj\Debug\viikko3ohj2.DataGridHarkka.resources

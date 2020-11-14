@@ -1,0 +1,11 @@
+C:\Users\Tommi\source\repos\viikko4ohj2\viikko4ohj2\bin\Debug\viikko4ohj2.exe.config
+C:\Users\Tommi\source\repos\viikko4ohj2\viikko4ohj2\bin\Debug\viikko4ohj2.exe
+C:\Users\Tommi\source\repos\viikko4ohj2\viikko4ohj2\bin\Debug\viikko4ohj2.pdb
+C:\Users\Tommi\source\repos\viikko4ohj2\viikko4ohj2\obj\Debug\viikko4ohj2.csprojAssemblyReference.cache
+C:\Users\Tommi\source\repos\viikko4ohj2\viikko4ohj2\obj\Debug\viikko4ohj2.ekaformi.resources
+C:\Users\Tommi\source\repos\viikko4ohj2\viikko4ohj2\obj\Debug\viikko4ohj2.Properties.Resources.resources
+C:\Users\Tommi\source\repos\viikko4ohj2\viikko4ohj2\obj\Debug\viikko4ohj2.tokaformi.resources
+C:\Users\Tommi\source\repos\viikko4ohj2\viikko4ohj2\obj\Debug\viikko4ohj2.csproj.GenerateResource.cache
+C:\Users\Tommi\source\repos\viikko4ohj2\viikko4ohj2\obj\Debug\viikko4ohj2.csproj.CoreCompileInputs.cache
+C:\Users\Tommi\source\repos\viikko4ohj2\viikko4ohj2\obj\Debug\viikko4ohj2.exe
+C:\Users\Tommi\source\repos\viikko4ohj2\viikko4ohj2\obj\Debug\viikko4ohj2.pdb
